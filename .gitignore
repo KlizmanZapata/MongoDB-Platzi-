@@ -168,3 +168,5 @@ hw_handoff
 ipshared
 
 # End of https://www.toptal.com/developers/gitignore/api/windows,xilinx,macos
+
+mongo_data/
